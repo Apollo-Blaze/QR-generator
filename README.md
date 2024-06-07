@@ -13,8 +13,8 @@ This Python script generates a QR code for a given URL and saves it as an image 
 1. Clone the repository or download the script file:
 
     ```bash
-    git clone https://github.com/yourusername/qrcode-generator.git
-    cd qrcode-generator
+    git clone https://github.com/Apollo-Blaze/QR-generator.git
+    cd QR-generator
     ```
 
 2. Install the required libraries:
